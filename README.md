@@ -1,5 +1,4 @@
-#Yemen #Map
-Yemen jQuery Mapael Map
+#Yemen #jQuery #Mapael #Map
 ===========
 Vector maps for [jQuery Mapael](https://github.com/neveldo/jQuery-Mapael)
 ===========
